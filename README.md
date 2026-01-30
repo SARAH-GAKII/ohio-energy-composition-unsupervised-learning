@@ -26,6 +26,9 @@ The datasets were merged at the plant level and aggregated to construct county-l
 
 ---
 
+- <img src="ohio_energy_composition_unsupervised_analysis_Thumbnail" width="500">
+
+---
 ## Methodology
 
 ### 1. Data Preparation
