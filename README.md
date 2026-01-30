@@ -115,4 +115,7 @@ The results provide a foundation for future extensions, such as:
 ---
 
 ## Repository Contents
+- **[Ohio Energy Composition – Unsupervised Learning](ohio_energy_composition_unsupervised_analysis.ipynb)** — Complete Python analysis applying PCA, t-SNE, K-Means, K-Medoids, and hierarchical clustering to uncover county-level energy generation patterns across Ohio  
+- **[Project Report](ohio_energy_composition_unsupervised_analysis.pdf)** — pdf version of the report  
+- **[Project Thumbnail](ohio_energy_composition_unsupervised_analysis_Thumbnail.png)** — Visual overview
 
